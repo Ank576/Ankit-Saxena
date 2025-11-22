@@ -19,7 +19,7 @@ My work sits at the intersection of **product strategy, design, and technology**
 |----------|--------------|-------------|
 | [PromptVault](https://github.com/Ank576/PromptVault) | Structured library of LLM prompts for product research, analysis, and content generation | AI, Prompt Engineering |
 | [FinFlow Dashboard](https://www.perplexity.ai/apps/6134b209-4873-421d-9df4-c924c021a550) | Mock fintech dashboard visualizing user metrics and product KPIs | Data Visualization |
-| [IdeaDocs](https://github.com/AnkitSaxena/ideadocs) | AI-assisted PRD and product strategy document generator | Product Strategy |
+| [IdeaDocs](https://github.com/Ank576/IdeaDocs) | AI-assisted PRD and product strategy document generator | Product Strategy |
 | [AI Product Canvas](https://github.com/AnkitSaxena/ai-product-canvas) | A canvas template to map out AI product feasibility and value | Framework Design |
 
 *(Each repo includes a live demo link, use-case writeup, and implementation notes.)*
