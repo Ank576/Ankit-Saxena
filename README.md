@@ -14,8 +14,9 @@ My work sits at the intersection of **product strategy, design, and technology**
 
 ---
 ### Product Design Portfolio 
-| [Portfolio - Click Here](https://github.com/Ank576/Portfolio) | Design to ideate and expore
+**| [Portfolio - Click Here](https://github.com/Ank576/Portfolio) | Design to ideate and expore |**
 ---
+
 
 ### 🚀 Featured Projects
 | Project | Description | Focus Area |
