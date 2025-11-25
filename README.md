@@ -13,6 +13,9 @@ My work sits at the intersection of **product strategy, design, and technology**
 - 🎯 Goal: Build products that scale across markets and deliver measurable outcomes
 
 ---
+### Product Design Portfolio 
+| [Portfolio - Click Here](https://github.com/Ank576/Portfolio) | Design to ideate and expore
+---
 
 ### 🚀 Featured Projects
 | Project | Description | Focus Area |
@@ -39,7 +42,7 @@ My work sits at the intersection of **product strategy, design, and technology**
 
 ### 🧩 Quick Links  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankit-product/)  
-- 🧭 [Portfolio](https://yourwebsite.com)  
+- 🧭 [Portfolio](https://github.com/Ank576/Portfolio)  
 - ✍️ [Product Articles](https://github.com/Ank576/Product-Articles)
 - 📨 Reach me at: **ankit.saxena76@nmims.edu.in**
 
