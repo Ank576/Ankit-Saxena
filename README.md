@@ -12,10 +12,33 @@ My work sits at the intersection of **product strategy, design, and technology**
 - 🧩 Skilled in: Product strategy, stakeholder management, experimentation, and analytics  
 - 🎯 Goal: Build products that scale across markets and deliver measurable outcomes
 
+
+## 🎨 Product Design Portfolio
+
+Welcome to my Product Design Portfolio — a collection of work showcasing my process across **research, ideation, UX/UI design, prototyping**, and **product thinking**.
+
 ---
-### Product Design Portfolio 
-**| [Portfolio - Click Here](https://github.com/Ank576/Portfolio) | Design to ideate and expore |**
+
+## 🔗 Portfolio  
+👉 **[Click here to view the full portfolio](https://github.com/Ank576/Portfolio)**  
+
 ---
+
+## 🧠 What You'll Find  
+- Human-centred design explorations  
+- Wireframes, user flows & journey maps  
+- Mobile & web UI designs  
+- Rapid prototyping  
+- Design systems & component libraries  
+- Case studies documenting problem-solving approaches  
+
+---
+
+## 🎯 Purpose  
+This space is built to **ideate, explore, experiment**, and share my design thought process with the community.
+
+---
+
 
 
 ### 🚀 Featured Projects
