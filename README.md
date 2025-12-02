@@ -97,11 +97,7 @@ This space is built to **ideate, explore, experiment**, and share my design thou
 
 ### 📈 My GitHub Insights  
 <!-- GitHub Stats -->
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ank576&show_icons=true&theme=tokyonight)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ank576&layout=compact&theme=tokyonight)
-
+![Ankit's GitHub Stats](https://github-readme-stats-ank576.vercel.app/api?username=Ank576&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ---
 
