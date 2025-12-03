@@ -81,9 +81,9 @@ This space is built to **ideate, explore, experiment**, and share my design thou
 | Project | Description | Focus Area |
 |----------|--------------|-------------|
 | [PromptVault](https://github.com/Ank576/PromptVault) | Structured library of LLM prompts for product research, analysis, and content generation | AI, Prompt Engineering |
-| [FinFlow Dashboard](https://www.perplexity.ai/apps/6134b209-4873-421d-9df4-c924c021a550) | Mock fintech dashboard visualizing user metrics and product KPIs | Data Visualization |
+| [Fair Practice Auditor RBI](https://github.com/Ank576/fair-practices-auditor) | LLM Based RBI auditor checks lending terms | AI based RBI Auditor |
 | [IdeaDocs](https://github.com/Ank576/IdeaDocs) | PRD and product strategy documents | Product Strategy |
-| [WealthManager Product Canvas](https://github.com/Ank576/WealthManager) | A canvas template to map out FINANCIAL WELLNESS Ecosystem | Framework Design |
+| [AI based BNPL Eligibity Checker](https://github.com/Ank576/bnpl-eligibility-checker) | Sonar Pro LLM checks BNPL eligibity| LLM Framework Design |
 | [Stock Trade Dashboard](https://github.com/Ank576/Stock-investing-dashboard) | Start trading with us | Framework Prototype 
 
 *(Each repo includes a live demo link, use-case writeup, and implementation notes.)*
