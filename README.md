@@ -7,7 +7,7 @@
 I’m a Product Manager at **Standard Chartered Research & Tech (Noida)**, driving digital transformation initiatives and exploring how **AI, data, and automation** can shape the future of finance.  
 My work sits at the intersection of **product strategy, design, and technology** — bridging customer insight with real-world impact.
 
-- 💡 Currently exploring: AI copilots for product workflows  
+- 💡 Currently exploring: AI LLM based product workflows [LLM Apps](https://github.com/Ank576/llm-powered-apps)  
 - ⚙️ Passionate about: Fintech, LLMs, and data-driven decision systems  
 - 🧩 Skilled in: Product strategy, stakeholder management, experimentation, and analytics  
 - 🎯 Goal: Build products that scale across markets and deliver measurable outcomes
@@ -41,6 +41,7 @@ This space is built to **ideate, explore, experiment**, and share my design thou
 ## Fintech • Payments • BNPL • AI RAG Systems
 
 ### What I Work On
+#### Checkout [LLM Apps](https://github.com/Ank576/llm-powered-apps) 
 
 - 💳 **Payments & Fintech**  
   Payment flows, PSP integrations, UPI/cards/net-banking, settlements, reconciliation automation, checkout optimisation.
@@ -102,7 +103,8 @@ This space is built to **ideate, explore, experiment**, and share my design thou
 
 ---
 
-### 🧩 Quick Links  
+### 🧩 Quick Links
+- 🚀 [LLM Apps](https://github.com/Ank576/llm-powered-apps)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankit-product/)  
 - 🧭 [Portfolio](https://github.com/Ank576/Portfolio)  
 - ✍️ [Product Articles](https://github.com/Ank576/Product-Articles)
