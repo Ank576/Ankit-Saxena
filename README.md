@@ -79,12 +79,13 @@ This space is built to **ideate, explore, experiment**, and share my design thou
 
 ### 🚀 Featured Projects
 | Project | Description | Focus Area |
-|----------|--------------|-------------|
-| [PromptVault](https://github.com/Ank576/PromptVault) | Structured library of LLM prompts for product research, analysis, and content generation | AI, Prompt Engineering |
-| [Fair Practice Auditor RBI](https://github.com/Ank576/fair-practices-auditor) | LLM Based RBI auditor checks lending terms | AI based RBI Auditor |
+|---------|-------------|------------|
+| [Fair Practices Auditor RBI](https://github.com/Ank576/fair-practices-auditor) | LLM RAG app for RBI Fair Practices Code loan terms auditor. Validates processing fees (≤1%) and prepayment penalties (≤2%). Portfolio demo for fintech compliance checking. | AI-based RBI Auditor |
+| [AI BNPL Eligibility Checker](https://github.com/Ank576/bnpl-eligibility-checker) | Sonar Pro LLM checks BNPL eligibility using RBI norms with approve/reject logic and regulatory citations. Built with Streamlit UI and Perplexity API (OpenAI-compatible client) returning JSON results. | LLM Framework |
+| [PromptVault](https://github.com/Ank576/PromptVault) | Structured library of LLM prompts for product research, analysis, and content generation. Best practices for testing and versioning prompts with robust evaluation methods. | AI, Prompt Engineering |
 | [IdeaDocs](https://github.com/Ank576/IdeaDocs) | PRD and product strategy documents | Product Strategy |
-| [AI BNPL Eligibity Checker](https://github.com/Ank576/bnpl-eligibility-checker) | Sonar Pro LLM checks BNPL eligibity| LLM Framework  |
-| [Stock Trade Dashboard](https://github.com/Ank576/Stock-investing-dashboard) | Start trading with us | Framework Prototype 
+| [Stock Trade Dashboard](https://github.com/Ank576/Stock-investing-dashboard) | Start trading with us | Framework Prototype |
+
 
 *(Each repo includes a live demo link, use-case writeup, and implementation notes.)*
 
