@@ -7,7 +7,7 @@
 I’m a Product Manager at **Standard Chartered Research & Tech (Noida)**, driving digital transformation initiatives and exploring how **AI, data, and automation** can shape the future of finance.  
 My work sits at the intersection of **product strategy, design, and technology** — bridging customer insight with real-world impact.
 
-- 💡 Currently exploring: AI LLM based product workflows [LLM Apps](https://github.com/Ank576/llm-powered-apps)  
+- 💡 Currently exploring: AI LLM based product workflows [Lending and Investment (FinTech) LLM Apps](https://github.com/Ank576/llm-powered-apps)  
 - ⚙️ Passionate about: Fintech, LLMs, and data-driven decision systems  
 - 🧩 Skilled in: Product strategy, stakeholder management, experimentation, and analytics  
 - 🎯 Goal: Build products that scale across markets and deliver measurable outcomes
