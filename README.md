@@ -109,6 +109,7 @@ This space is built to **ideate, explore, experiment**, and share my design thou
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankit-product/)  
 - 🧭 [Portfolio](https://github.com/Ank576/Portfolio)  
 - ✍️ [Product Articles](https://github.com/Ank576/Product-Articles)
+- 💼 [Resume/CV](https://shorturl.at/6wMbi)
 - 📨 Reach me at: **ankit.saxena76@nmims.edu.in**
 
 ---
